@@ -1,7 +1,7 @@
 var offsetX = $("#loveHeart").width() / 2;
 var offsetY = $("#loveHeart").height() / 2 - 55;
 var together = new Date();
-together.setFullYear(2017, 5, 29);
+together.setFullYear(2017, 4, 29);
 together.setHours(17);
 together.setMinutes(30);
 together.setSeconds(0);
